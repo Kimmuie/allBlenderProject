@@ -5,6 +5,7 @@ This repository is for introducing my blender project, but if you want to use so
 3. Vacuum Flask
 4. Fishing Machine (animated)
 5. Frostmaw (animated)
+6. Fresh Marinated
 
 **Used Language/Tools**
 <div>
