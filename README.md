@@ -3,7 +3,7 @@ This repository is for introducing my blender project, but if you want to use so
 1. Blindfold
 2. Neck Pillow
 3. Vacuum Flask
-4. Fishing Machine (animated)
+4. [Fishing Machine](https://www.instagram.com/reel/C8szpd9ywTq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) (animated)
 5. Frostmaw (animated)
 6. Fresh Marinated
 
