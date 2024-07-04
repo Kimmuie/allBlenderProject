@@ -2,10 +2,12 @@ This repository is for introducing my Blender project. You can click on the name
 
 1. BCC172th Souvenir | Blindfold
 2. BCC172th Souvenir | Neck Pillow
-3. BCC172th Souvenir | Vacuum Flask
-4. Hobbywork | [Fishing Machine](https://www.instagram.com/reel/C8szpd9ywTq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) (animated)
-5. Hobbywork | [Frostmaw](https://www.instagram.com/p/C850s4Zy9xb/) (animated)
-6. Hirework | Fresh Marinated
+3. BCC172th Souvenir | Duffle Bag
+4. BCC172th Souvenir | Vacuum Flask 1
+5. BCC172th Souvenir | Vacuum Flask 2
+6. Hobbywork | [Fishing Machine](https://www.instagram.com/reel/C8szpd9ywTq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) (animated)
+7. Hobbywork | [Frostmaw](https://www.instagram.com/p/C850s4Zy9xb/) (animated)
+8. Hirework | Fresh Marinated
 
 **Used Language/Tools**
 <div>
