@@ -7,7 +7,7 @@ This repository is for introducing my Blender project. You can click on the name
 5. BCC172th Souvenir | Vacuum Flask 2
 6. Hobbywork | [Fishing Machine](https://www.instagram.com/reel/C8szpd9ywTq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) (animated)
 7. Hobbywork | [Frostmaw](https://www.instagram.com/p/C850s4Zy9xb/) (animated)
-8. Hiredwork | Fresh Marinated
+8. Hiredwork | [Fresh Marinated](https://www.instagram.com/p/C9E2yxoy2VW/?igsh=NnJkdWM3b21wNHU5)
 
 **Used Language/Tools**
 <div>
